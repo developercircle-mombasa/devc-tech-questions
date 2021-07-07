@@ -12,7 +12,11 @@ Weekly practical developer Questions on our [Facebook Group platform](https://ww
 
 # Tech Questions
 
-## FizzBuzz
+
+## Big O Notation - Not Posted
+
+
+## FizzBuzz - Posted
 [Question Post](https://www.facebook.com/groups/DevCMombasa/permalink/1338184826552830/)
 
 **Solutions**
@@ -21,7 +25,7 @@ Weekly practical developer Questions on our [Facebook Group platform](https://ww
 
 [Python](source/fizzbuzz/python/submission1.py)
 
-## Strings - Reverse
+## Strings: Reverse - Posted
 
 [Question Post](https://www.facebook.com/groups/DevCMombasa/permalink/1343190189385627/)
 
